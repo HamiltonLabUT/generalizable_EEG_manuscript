@@ -1,5 +1,5 @@
 # generalizable_EEG_manuscript
-Code for Desai et al. 2021 (Generalizable EEG encoding models)
+Code for Desai et al. 2021 [Generalizable EEG encoding models](https://www.biorxiv.org/content/biorxiv/early/2021/01/18/2021.01.15.426856.full.pdf). Submitted to JNeuro.
 
 Data can be found [here](https://osf.io/p7qy8/?view_only=bd1ca019ba08411fac723d48097c231d)
 
