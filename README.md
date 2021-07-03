@@ -1,5 +1,6 @@
 # generalizable_EEG_manuscript
 Code for Desai et al. 2021 (Generalizable EEG encoding models)
+Data: https://osf.io/p7qy8/?view_only=bd1ca019ba08411fac723d48097c231d
 
 Jupyter Notebooks generates the figures in paper and the panels. 
 
